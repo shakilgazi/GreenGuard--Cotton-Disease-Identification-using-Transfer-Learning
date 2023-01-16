@@ -1,4 +1,4 @@
-# Cotton-Disease-Prediction-DL-Transfer-Learning-
+# The disease identifier for cotton using Transfer Learning 
 
 •	This project based on "transfer learning". This system is able to identify if this cotton has the disease or not. Worked independently to analyze, and visualize, the dataset. This project was completed using Python, a library called NumPy and implemented in "Google Colab". 
 
