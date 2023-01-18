@@ -1,4 +1,4 @@
-# The disease identifier for cotton using Transfer Learning 
+# GreenGuard: Cotton Disease Identification using Transfer Learning 
 
 • Disease Identifier for Cotton: Developed a deep learning model using Transfer Learning technique to identify if a cotton plant has a disease or not.
 
